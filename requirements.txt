@@ -1,0 +1,6 @@
+os
+cv2
+numpy
+matplotlib
+tensorflow
+scikit-Learn
